@@ -11331,7 +11331,7 @@ hr.divider-light {
 
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  background-color: #fff;
+  background-color: rgba(114, 113, 103, 1);
   transition: background-color 0.2s ease;
 }
 #mainNav .navbar-brand {
@@ -11488,3 +11488,8 @@ header.masthead h1, header.masthead .h1 {
   transition: 0.25s;
   
 }
+
+#about{
+  height: 600px;
+}
+
