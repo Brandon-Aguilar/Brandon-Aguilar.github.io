@@ -599,9 +599,12 @@ progress {
   content: "— ";
 }
 
-.img-fluid {
-  max-width: 100%;
+.img-fluid-1 {
+  object-fit: cover;
+  overflow: hidden;
+  width: 100%;
   height: 342px;
+  object-position: top;
 }
 
 .img-fluid-2 {
