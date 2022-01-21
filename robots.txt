@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /Brandon-Aguilar/
+Disallow: /Projects/
