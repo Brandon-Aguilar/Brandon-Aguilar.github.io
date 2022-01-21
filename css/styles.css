@@ -11505,8 +11505,10 @@ header.masthead h1, header.masthead .h1 {
   transition: 0.25s;
   
 }
-
-#about{
-  height: 600px;
+@media (min-width: 900px){
+  #about {
+    height: 600px;
+  }
 }
+
 
